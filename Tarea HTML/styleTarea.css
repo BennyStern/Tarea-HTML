@@ -1,0 +1,26 @@
+header{
+  color:orange;
+  border: 2px solid navy;
+}
+body{
+  color:purple;
+}
+
+nav{
+display: inline;
+  border: 2px dotted red;
+}
+
+ul{
+  border: 2px solid green;
+}
+article{
+  border: 2px solid grey
+}
+
+
+
+img{
+  width: 33%;
+  border: 2px solid yellow;
+}
